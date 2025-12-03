@@ -1,0 +1,29 @@
+oops_api_keys_example.txt
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Venv
+venv/
+.env/
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# IDE junk
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+*.sqlite3
+
